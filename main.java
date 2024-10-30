@@ -3,7 +3,7 @@ import java.util.Scanner;
 
 public class main{
     public static void main(String[] args){
-        
+//fghasikfgnasfjhgahrkgjfnacdkjiovharwekjfgnmaijkodfsgbniauodgnardgnlakgnauwiherf
         Scanner input= new Scanner(System.in);
         System.out.print("Principal: ");
         int priValue= input.nextInt();
